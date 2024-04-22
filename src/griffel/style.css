@@ -1,0 +1,6 @@
+.myroot {
+  color: "#ff0000";
+}
+.myroot.bar {
+  color: 'red';
+}
